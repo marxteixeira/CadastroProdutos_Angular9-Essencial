@@ -24,6 +24,11 @@
       "name": "",
       "price": 0,
       "id": 5
+    },
+    {
+      "name": "Veio do formulário",
+      "price": "300,99",
+      "id": 6
     }
   ]
 }
