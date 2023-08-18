@@ -29,6 +29,11 @@
       "name": "Veio do formulário",
       "price": "300,99",
       "id": 6
+    },
+    {
+      "name": "Produto pós lista",
+      "price": "49",
+      "id": 7
     }
   ]
 }
