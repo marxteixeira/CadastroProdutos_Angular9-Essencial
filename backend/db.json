@@ -3,17 +3,12 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "5.89"
     },
     {
       "id": 3,
       "name": "Sansung S20+",
-      "price": "5000.89"
-    },
-    {
-      "name": "Produto teste",
-      "price": 125.98,
-      "id": 4
+      "price": "500.89"
     },
     {
       "name": "Veio do formulário",
@@ -24,6 +19,16 @@
       "name": "Produto pós lista",
       "price": "49",
       "id": 7
+    },
+    {
+      "name": "Teste de Mensagem",
+      "price": "15045",
+      "id": 8
+    },
+    {
+      "name": "trest",
+      "price": "12",
+      "id": 9
     }
   ]
 }
