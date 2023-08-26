@@ -1,5 +1,5 @@
 import { ProductService } from './../product.service';
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Product } from '../product.model';
 
@@ -8,7 +8,7 @@ import { Product } from '../product.model';
   templateUrl: './product-create.component.html',
   styleUrls: ['./product-create.component.css']
 })
-export class ProductCreateComponent {
+export class ProductCreateComponent implements OnInit {
 
   product: Product = {
     name: '',
